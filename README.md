@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
+</p>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luhamoza&layout=compact)
 
 <!--
