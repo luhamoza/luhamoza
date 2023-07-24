@@ -2,12 +2,12 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
-<p align="center">I am a self learn and self taught web developer. Ex chemical engineer.</p>
+<p align="center">I am a self learn and self taught full stack web developer. Ex chemical engineer.</p>
 
 ## I work with this tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react alt="HTML, CSS, JavaScript, React" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express alt="HTML, CSS, JavaScript, React, Node.js ,Express.js" />
   </a>
 </p>
 
