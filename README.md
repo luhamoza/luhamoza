@@ -7,7 +7,7 @@
 ## I work with this tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb alt="HTML, CSS, JavaScript, React, Node.js ,Express.js, MongoDB" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode alt="HTML, CSS, JavaScript, React, Node.js ,Express.js, MongoDB, Git, VS Code" />
   </a>
 </p>
 
