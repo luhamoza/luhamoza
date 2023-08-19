@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
-<p align="center">I am a self learn and self taught product developer. Ex chemical engineer.</p>
+<p align="center">I am a self learn and self taught web developer. Ex chemical engineer.</p>
 
 ## I work with this tech
 <p align="center">
