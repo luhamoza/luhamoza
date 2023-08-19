@@ -4,7 +4,7 @@
 </p>
 <p align="center">I am a self learn and self taught web developer. Ex chemical engineer.</p>
 
-## I work with this tech
+<h2 align="center"> I work with this tech</h2>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode alt="HTML, CSS, JavaScript, React, Node.js ,Express.js, MongoDB, Git, VS Code" />
