@@ -6,9 +6,8 @@
 
 <h2 align="center"> I work with this tech</h2>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,vscode alt="HTML, CSS, Tailwindcss, JavaScript, React, Node.js ,Express.js, MongoDB, Git, VS Code" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,vscode alt="HTML, CSS, Tailwindcss, JavaScript, React, Node.js ,Express.js, MongoDB, Git, VS Code" />
+
 </p>
 
 <!-- ## My stats
