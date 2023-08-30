@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 
 
-Hi, I'm Luqman. I'm into front-end, design and building SaaS.
+Hi, I'm Luqman. I'm into building software and SaaS.
 
 Stack of choice: **Next.js**, **React**, **TailwindCSS**, 
 
