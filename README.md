@@ -9,7 +9,7 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,golang,astro,html,css,tailwind,js,ts,nextjs,react,express,nodejs" alt="C, Go,Astro, HTML, CSS, Tailwind, JavaScript, TypeScript, Nextjs, React, Express, Node.js" />
+    <img src="https://skillicons.dev/icons?i=c,golang,astro,tailwind,ts,react" alt="C, Go,Astro,Tailwind,TypeScript, React, Express" />
   </a>
 </p>
 
