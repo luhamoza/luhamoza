@@ -9,7 +9,7 @@
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,golang,js" alt="Java,Go,JavaScript" />
+    <img src="https://skillicons.dev/icons?i=postgres,golang,js" alt="Postgressql,Go,JavaScript" />
   </a>
 </p>
 
