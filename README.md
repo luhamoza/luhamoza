@@ -9,7 +9,7 @@
 <h2 align="center">Currently Learning ✨</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgres,golang,js" alt="Postgressql,Go,JavaScript" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,golang,js" alt="Docker,PostgresSQL,Go,JavaScript" />
   </a>
 </p>
 
