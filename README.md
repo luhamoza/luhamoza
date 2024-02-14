@@ -5,6 +5,7 @@
 - Open Source Contributions
 
 ### 🌱 I’m currently learning:
+- General: I am a programming language enthusiast I am constantly playing around with other languages.
 - Current focus: C#, ASP.Net MVC, Bootstrap, Azure, Docker, SQL
 - Casual: Go, Javascript, React, Rust, C
   
