@@ -6,7 +6,7 @@
 
 ### 🌱 I’m currently learning:
 - General: Being a programming language enthusiast, I am constantly playing around with many languages.
-- Current focus: C#, ASP.Net MVC
+- Current focus: C#, ASP.Net Core MVC
 - Casual: Go, Javascript, React, Rust, C, Bootstrap, Azure, Docker, SQL
   
 ### 🚀 Stats 
