@@ -1,8 +1,7 @@
 ### Hello 👋
 
 ### 🔭 I’m interested working on:
-- Backend Web Development
-- Open Source Contributions
+- Web Development
 
 ### 🌱 I’m currently learning:
 - General: Being a programming language enthusiast, I am constantly playing around with many languages and tools.
