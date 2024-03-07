@@ -4,7 +4,7 @@
 - Web Development
 
 ### 🌱 I’m currently learning:
-- General: Being a programming language enthusiast, I am constantly playing around with many languages and tools.
+- General: I'm not by any means expert in any language/topics but I'm expert in learning and understanding new things quickly.
 - Current focus: Typescript, Nodejs, React, Nextjs
 - Casual: Docker, SQL, JQuery, C#, ASP.Net
   
