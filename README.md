@@ -1,11 +1,11 @@
-### Hello 👋
+### Hello and Welcome 👋
 
 ### 🔭 I’m interested working on:
 - Web Development
 
 ### 🌱 I’m currently learning:
 - General: I'm not by any means expert in any language/topics but I'm expert in learning and understanding new things quickly.
-- Current focus: Typescript, Reactjs, Go
+- Current focus: Typescript, React, Go
 - Casual: Docker, SQL, C#, ASP.Net
   
 ### 🚀 Stats 
