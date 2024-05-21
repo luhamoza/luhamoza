@@ -1,7 +1,7 @@
 ### Hello and Welcome 👋
 
 ### 🔭 I’m interested working on:
-- Web Development
+- Software Development
 
   
 <!-- ### 🚀 Stats 
