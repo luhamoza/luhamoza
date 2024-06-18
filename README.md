@@ -1,7 +1,7 @@
 ### Hello and Welcome 👋
 
-### 🔭 I’m interested working on:
-- Software Development
+### 🔭 Currently learning:
+- Django and Nextjs
 
   
 <!-- ### 🚀 Stats 
