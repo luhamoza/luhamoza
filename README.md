@@ -1,5 +1,5 @@
 
-
+## I write typescript daily
 
 
   <a href="https://skillicons.dev">
@@ -7,7 +7,7 @@
   </a>
 
 
-## I write typescript daily
+
 
 
   
